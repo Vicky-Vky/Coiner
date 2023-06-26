@@ -1,0 +1,50 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.logo_img {
+  height: 30px;
+}
+
+.coin_con {
+  margin: auto;
+  padding: 10px;
+  width: 50%;
+  font-size: 18px;
+  position: relative;
+  top: 5vh;
+}
+
+.ind_coin {
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+  padding-left: 30vh;
+  display: flex;
+  margin: auto;
+}
+#coin_search {
+  transform: translateX(29.6vh);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.coin {
+  display: inline-flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(170, 167, 167);
+  width: 50%;
+  padding-bottom: 5px;
+}
+
+.center_search {
+  /* border: 2px solid black; */
+  display: inline-flex;
+  justify-content: space-between;
+  width: 28%;
+  padding: 10px;
+  margin: auto;
+  transform: translateX(70vh);
+  margin-top: 20px;
+}

@@ -1,0 +1,57 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.coin_list2 {
+  /* background-color: aqua; */
+  width: fit-content;
+  position: relative;
+  transform: translateX(-14vh);
+}
+.content2 {
+  border: 2px solid black;
+}
+.coin_con2 {
+  /* border: 2px solid red; */
+  width: fit-content;
+  margin-left: 0vh;
+  height: 100vh;
+}
+.coin {
+  width: 30vh;
+}
+.show_coin_image {
+  width: 10px;
+  height: 10px;
+  display: none;
+}
+.head_coin2 {
+  /* background-color: aquamarine; */
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.head_coin2 img {
+  width: 70px;
+  left: 20vh;
+  transform: translateX(15vh);
+  height: auto;
+}
+.cn_name {
+  transform: translateX(8vh);
+}
+
+.Sec_col {
+  /* background-color: blanchedalmond; */
+}
+.content2 {
+  font-size: 15px;
+  padding: 30px;
+}
+#he_con {
+  border-bottom: 2px solid grey;
+}
+.content2 span {
+  /* background-color: bisque; */
+}
